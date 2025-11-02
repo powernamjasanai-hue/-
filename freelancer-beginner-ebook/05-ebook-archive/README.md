@@ -18,15 +18,16 @@
 - **`chapter-04-negotiation-basics.md`** - 제4원칙: 협상 기본기
 - **`chapter-05-system-management.md`** - 제5원칙: 시스템 관리
 - **`chapter-06-growth-strategy.md`** - 제6원칙: 성장 전략
+- **`outro.md`** - 맺음말: 여러분의 첫걸음을 응원합니다
 
 ---
 
 ## 📊 전자책 통계
 
 ### 전체 분량
-- **총 줄 수**: 약 4,041줄
-- **총 단어 수**: 약 7,083단어
-- **총 글자 수**: 약 163,000자
+- **총 줄 수**: 약 4,310줄
+- **총 단어 수**: 약 7,334단어
+- **총 글자 수**: 약 171,000자
 
 ### 챕터별 분량
 | 챕터 | 파일명 | 글자 수 (대략) |
@@ -38,6 +39,7 @@
 | 원칙 4 | chapter-04-negotiation-basics.md | 약 31,000자 |
 | 원칙 5 | chapter-05-system-management.md | 약 27,000자 |
 | 원칙 6 | chapter-06-growth-strategy.md | 약 23,000자 |
+| 맺음말 | outro.md | 약 7,000자 |
 
 ---
 
@@ -222,4 +224,4 @@ freelancer-beginner-ebook/
 - **Git 저장소**: Yes
 - **브랜치**: claude/freelancer-beginner-ebook-011CUgyWjrNoazUvwbZVumUo
 - **최종 커밋 날짜**: 2025-11-02
-- **총 파일 수**: 9개 (README + 통합본 2개 + 개별 7개)
+- **총 파일 수**: 11개 (README + 통합본 3개 + 개별 8개)
